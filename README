@@ -1,0 +1,2 @@
+All details are embedded in the main colab project. 
+In order to make changes or modify the main database, you need to change the path and the filename when importing the database, if is mounted to google drive.
