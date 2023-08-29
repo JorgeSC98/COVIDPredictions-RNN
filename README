@@ -1,4 +1,7 @@
-COVID-19 has been a situation that has generated tons of data every day from infections to vaccination rates worldwide. This paper will present the preprocessing, classification, and comparison of three different RNN architectures applied to a COVID-19 dataset from Mexico in order to predict death cases over months, providing the best hyperparameters found for each model.
+COVID-19 has been a situation that has generated tons of data every day from infections to vaccination rates worldwide. 
+This paper will present the preprocessing, classification, and comparison of three different RNN architectures applied to
+a COVID-19 dataset from Mexico in order to predict death cases over months, providing the best hyperparameters found for 
+each model.
 
 All details are embedded in the main colab project. 
 The database file "owid-covid-data" can be found on the file database as a link.
